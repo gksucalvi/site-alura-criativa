@@ -1,9 +1,9 @@
-header, .menu {
+header {
     background-color: #000000;
     color: white;
 }
 
-.menu {
+li {
     position: absolute;
 }
 
