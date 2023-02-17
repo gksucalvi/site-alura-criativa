@@ -4,6 +4,10 @@ header {
 }
 
 li {
-    text-align: right;
+    display: inline;
+    position:relative;
+    left:75%;
+    bottom: 33px;
+    margin:3%;
 }
 
