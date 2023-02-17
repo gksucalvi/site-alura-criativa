@@ -2,3 +2,8 @@ header {
     background-color: #000000;
     color: white;
 }
+
+.menu {
+    position: absolute;
+}
+
