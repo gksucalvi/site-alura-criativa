@@ -9,7 +9,7 @@ header {
 }
 
 li {
-    display: inline;
+    display: flex;
     position:relative;
     left:75%;
     bottom: 33px;
