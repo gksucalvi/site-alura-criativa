@@ -19,6 +19,10 @@
     
 }
 
+body{
+    font-family: 'Signika Negative', sans-serif;
+}
+
 .alquimia-imagen{
     width: 25%;
 }
@@ -38,5 +42,5 @@
 
 .alquimia-titulo{
     padding: 24px 0;
-    
+
 }
