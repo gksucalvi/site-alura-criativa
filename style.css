@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #424E61;
+    background-color: #78AA67;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -21,4 +21,8 @@
 
 .alquimia-imagen{
     width: 25%;
+}
+
+.alquimia{
+    background-image: linear-gradient(#78AA67,#64C7C5);
 }
