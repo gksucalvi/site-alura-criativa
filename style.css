@@ -62,6 +62,7 @@ body{
 #participantes{
     background-color: rgb(218, 120, 248);
     border: 2px inset rgb(165, 63, 63);
+    border-radius: 20px;
 }
 
 .participantes-imagem{
