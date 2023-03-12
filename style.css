@@ -54,3 +54,8 @@ body{
     width: 24px;
     padding: 4px 8px;
 }
+
+.participantes-div{
+    justify-content: space-around;
+    align-items: center;
+}
