@@ -72,3 +72,13 @@ body{
     display: flex;
     justify-content: space-around;
 }
+
+.rodape{
+    background-color: ;
+    text-align: center;
+}
+
+.rodape-imagem{
+    width: 30%;
+    padding: 24px 0;
+}
