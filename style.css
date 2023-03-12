@@ -55,6 +55,10 @@ body{
 
 }
 
+.alquimia-texto{
+    padding: 12px 0;
+}
+
 #participantes{
     background-color: rgb(218, 120, 248);
 }
