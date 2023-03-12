@@ -61,7 +61,7 @@ body{
 
 .participantes-titulo{
     text-align: center;
-    font-size: 100%;
+    padding: 24px 0;
 }
 
 .participantes-todos{
