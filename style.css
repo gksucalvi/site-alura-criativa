@@ -12,6 +12,10 @@
     padding: 24px 0;
 }
 
+.cabecalho-img{
+    width: 25%;
+}
+
 .cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
