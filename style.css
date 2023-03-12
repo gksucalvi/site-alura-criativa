@@ -56,6 +56,6 @@ body{
 }
 
 .participantes-div{
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
